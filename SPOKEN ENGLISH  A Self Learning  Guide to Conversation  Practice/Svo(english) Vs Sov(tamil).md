@@ -242,3 +242,247 @@ Subject + Object + Verb
 
 அது பார்த்தால் **English sentence structure ஒரே பார்வையில் புரியும்**.
 
+-------
+
+> hey நாம் இப்படி புரிந்து கொள்கிறோம் sov பயன்படுத்தி ஆனால் ஆங்கிலேயர்கள் எப்படி அதை புரிந்து கொள்வார்கள் ? mindset?
+
+மிக நல்ல கேள்வி. 👍
+**நாம் English-ஐ SOV (தமிழ் முறையில்) மாற்றி புரிந்து கொள்கிறோம்.
+ஆனால் English native speakers எப்படி புரிந்து கொள்கிறார்கள்?**
+
+அவர்கள் **translate செய்து புரிந்து கொள்ளவே மாட்டார்கள்**. அவர்களின் brain **direct SVO pattern**-ஐ recognize செய்கிறது.
+
+இதை simple-ஆ explain செய்கிறேன்.
+
+---
+
+# 1️⃣ Native speakers translate செய்ய மாட்டார்கள்
+
+நாம்:
+
+```
+English → Tamil → Meaning
+```
+
+என்று brain வேலை செய்கிறது.
+
+Example:
+
+**I eat rice**
+
+நாம் brain-ல்:
+
+```
+I → நான்
+eat → சாப்பிடு
+rice → சோறு
+```
+
+பிறகு:
+
+```
+நான் சோறு சாப்பிடுகிறேன்
+```
+
+---
+
+ஆனால் **native speaker brain** இப்படிதான்:
+
+```
+English → Meaning
+```
+
+Example:
+
+**I eat rice**
+
+அவர்களுக்கு உடனே picture வரும்:
+
+👉 நான் சோறு சாப்பிடும் scene.
+
+Translation நடக்காது.
+
+---
+
+# 2️⃣ அவர்கள் sentence pattern-ஐ recognize செய்வார்கள்
+
+Native speakers brain **pattern recognition** பயன்படுத்தும்.
+
+Example sentence:
+
+```
+I eat rice
+```
+
+Brain pattern:
+
+```
+Subject → Action → Object
+```
+
+Meaning:
+
+👉 யார் → என்ன செய்கிறார் → எதை
+
+---
+
+# 3️⃣ அவர்களுக்கு “action” முக்கியம்
+
+English language-ல் **verb early வரும்**.
+
+Example:
+
+```
+I opened the door
+```
+
+Brain:
+
+```
+I → who
+opened → action
+door → object
+```
+
+Meaning instantly clear.
+
+---
+
+# 4️⃣ தமிழில் meaning last-ல் வரும்
+
+Tamil:
+
+```
+நான் கதவை திறந்தேன்
+```
+
+Brain order:
+
+```
+நான் → who
+கதவை → object
+திறந்தேன் → action
+```
+
+Action கடைசியில் வரும்.
+
+---
+
+# 5️⃣ Native speakers brain training
+
+English speakers childhood-லேயே:
+
+* SVO sentences
+* thousands of conversations
+* reading
+* listening
+
+இதனால் brain automatic pattern உருவாகும்.
+
+---
+
+# 6️⃣ Example comparison
+
+Sentence:
+
+**The boy kicked the ball**
+
+English brain:
+
+```
+boy → subject
+kicked → action
+ball → object
+```
+
+Meaning instantly.
+
+---
+
+Tamil brain:
+
+```
+boy → subject
+ball → object
+kick → verb
+```
+
+அதனால் நாம் sentence rearrange செய்கிறோம்.
+
+---
+
+# 7️⃣ English learn செய்ய முக்கிய mindset
+
+English-ஐ **தமிழ் போல rearrange செய்யாமல்** இப்படிச் சிந்திக்க வேண்டும்:
+
+```
+Who → Action → What
+```
+
+Example:
+
+**She opened the door**
+
+```
+She → யார்
+opened → என்ன செய்தார்
+door → எதை
+```
+
+Meaning clear.
+
+---
+
+# ⭐ Best English Thinking Method
+
+English sentence பார்க்கும்போது:
+
+```
+Subject → Action → Object
+```
+
+Example:
+
+**I sent the parcel**
+
+```
+I → யார்
+sent → என்ன செய்தேன்
+parcel → எதை
+```
+
+Meaning:
+
+👉 நான் parcel அனுப்பினேன்.
+
+---
+
+# 🔑 முக்கிய விஷயம்
+
+Native speakers:
+
+```
+pattern recognition
+```
+
+நாம் ஆரம்பத்தில்:
+
+```
+translation
+```
+
+Practice வந்தால் நம்ம brain கூட:
+
+```
+English → meaning
+```
+
+ஆகிவிடும்.
+
+---
+
+✅ நீங்கள் விரும்பினால் நான் ஒரு **மிக முக்கியமான விஷயம் காட்டலாம்**:
+
+**English sentence-ஐ 2 seconds-ல் புரிந்து கொள்ளும் “WHO–ACTION–WHAT method”**
+
+இது தான் **native speaker thinking trick**.

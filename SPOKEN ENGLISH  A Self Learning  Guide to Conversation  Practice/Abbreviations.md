@@ -282,3 +282,150 @@ Examples:
 
 👉 **5 seconds-ல் adjective identify செய்யும் method**
 (English grammar-ல் students அதிகம் use பண்ணும் trick).
+அது சரி — **Adjective** தான் ஆரம்பத்தில் கொஞ்சம் குழப்பமாக இருக்கும். அதை மிகவும் **எளிய முறையில்** புரியவைக்கிறேன். 😊
+
+---
+
+# Adjective என்றால் என்ன?
+
+**Adjective = Noun பற்றி கூடுதல் தகவல் சொல்லும் சொல்.**
+
+அதாவது:
+
+👉 ஒரு பொருள் / மனிதர் எப்படி இருக்கிறார் என்பதை சொல்வது.
+
+---
+
+# Example 1
+
+**A boy**
+
+இங்கே:
+
+* boy → noun
+
+ஆனால் எந்த boy?
+
+---
+
+**A tall boy**
+
+இப்போது:
+
+* tall → adjective
+* boy → noun
+
+👉 **tall** என்றால் அந்த boy எப்படி இருக்கிறார் என்று சொல்கிறது.
+
+---
+
+# Example 2
+
+**A car**
+
+எந்த car?
+
+**A red car**
+
+* red → adjective
+* car → noun
+
+👉 car-ன் colour சொல்லுகிறது.
+
+---
+
+# Example 3
+
+**A house**
+
+**A big house**
+
+* big → adjective
+
+👉 house size சொல்லுகிறது.
+
+---
+
+# மிகவும் Simple Trick
+
+ஒரு sentence-ல்:
+
+👉 **How? / Which? / What kind?**
+
+என்ற கேள்விக்கு answer வந்தால் அது **Adjective**.
+
+Example:
+
+**A beautiful girl**
+
+Question:
+
+What kind of girl?
+
+Answer:
+
+**beautiful**
+
+👉 அதனால் beautiful = adjective
+
+---
+
+# இன்னும் சில Examples
+
+| Sentence           | Adjective |
+| ------------------ | --------- |
+| A **small** cat    | small     |
+| A **happy** child  | happy     |
+| A **fast** car     | fast      |
+| A **good** teacher | good      |
+
+---
+
+# Formula
+
+பொதுவாக:
+
+```
+Adjective + Noun
+```
+
+Example:
+
+* big house
+* red car
+* smart student
+* tall building
+
+---
+
+# ஒரு முக்கிய விஷயம்
+
+Adjective சில நேரம் **verb பிறகும் வரும்**.
+
+Example:
+
+> She is **happy**
+
+இங்கே:
+
+* happy → adjective
+
+---
+
+# Simple Tamil Summary
+
+**Adjective = noun எப்படி இருக்கிறது என்று சொல்லும் சொல்**
+
+Examples:
+
+* big house
+* red car
+* happy boy
+* beautiful girl
+
+---
+
+💡 நீங்கள் விரும்பினால் நான் இன்னும் ஒரு **மிக powerful trick சொல்லலாம்:**
+
+👉 **5 seconds-ல் adjective identify செய்யும் method**
+(English grammar-ல் students அதிகம் use பண்ணும் trick).
